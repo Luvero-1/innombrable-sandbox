@@ -1,0 +1,18 @@
+{"_id":"64vGfkQKYiQsEHtm","key":"inlinewebviewer.webviewersNew","value":"[{\"id\":\"1\",\"safename\":\"Plantasótano\",\"name\":\"Planta sótano\",\"compat\":false,\"url\":\"https://www.pinterest.es/pin/790311434610944505/\",\"icon\":\"\",\"width\":null,\"height\":null,\"customcss\":\"\"},{\"id\":\"2\",\"safename\":\"Plantaprincipal\",\"name\":\"Planta principal\",\"compat\":false,\"url\":\"https://www.pinterest.es/pin/790311434610944488/\",\"icon\":\"\",\"width\":null,\"height\":null,\"customcss\":\"\"},{\"id\":\"3\",\"safename\":\"Plantassuperiores\",\"name\":\"Plantas superiores\",\"compat\":false,\"url\":\"https://www.pinterest.es/pin/790311434610944518/\",\"icon\":\"\",\"width\":null,\"height\":null,\"customcss\":\"\"}]"}
+{"key":"sandbox.showSimpleRoller","value":"false","_id":"9sCYLZhyno2coDXA"}
+{"_id":"F9XCkrny2UlRlnZb","key":"df-scene-enhance.thumbs","value":"\"{}\""}
+{"key":"sandbox.consistencycheck","value":"false","_id":"O4n6QMR3bRItZmUt"}
+{"_id":"QZRhwgye3KmbYDgm","key":"sandbox.customStyle","value":"\"\""}
+{"_id":"Rz1EdI6hYc8sj3PI","key":"core.compendiumConfiguration","value":"{\"furnace.macros\":{\"private\":true,\"locked\":true},\"world.actores-historia-2-el-coro-del-rey\":{\"private\":false,\"locked\":true},\"world.apuntes-historia-2-el-coro-del-rey\":{\"private\":false,\"locked\":true},\"world.musica-historia-1-en-busca-de-un-dios-muerto\":{\"private\":false,\"locked\":true},\"world.musica-historia-2-el-coro-del-rey\":{\"private\":false,\"locked\":true}}"}
+{"key":"sandbox.showADV","value":"false","_id":"XQTDu90vFVMEzVzi"}
+{"_id":"XpIDvhJAbHldQqAS","key":"core.rtcWorldSettings","value":"{\"mode\":0,\"server\":{\"type\":\"FVTT\",\"url\":\"\",\"room\":\"g3qvmiiu2x48pp4xa4ybz5nrrna3dwym\",\"username\":\"\",\"password\":\"\"},\"turn\":{\"type\":\"server\",\"url\":\"\",\"username\":\"\",\"password\":\"\"}}"}
+{"_id":"YA5tBdieYTlm7lzc","key":"sandbox.showDC","value":"true"}
+{"_id":"a9sg5kiwpcsRdfNO","key":"core.moduleConfiguration","value":"{\"jitsirtc\":true,\"pdfoundry\":true,\"permission_viewer\":true,\"sound-link\":true}"}
+{"_id":"cIUdnPwczOEySXi5","key":"cursor-hider.minimumPermission","value":"\"1\""}
+{"key":"permission_viewer.migrated","value":"1","_id":"ekxTu65b2C0jEbRT"}
+{"_id":"gEiGMVcJbW4l7B8U","key":"sandbox.diff","value":"\"15\""}
+{"key":"pdfoundry.DataVersion","value":"\"v0.6.0\"","_id":"m5omsQzxDomfeElf"}
+{"_id":"tXGyibZPeO9F8og5","key":"sandbox.showLastRoll","value":"true"}
+{"key":"core.time","value":"0","_id":"uvF92fvFYco121hB"}
+{"_id":"wVzVsXeJEKraQOMn","key":"core.permissions","value":"{\"WALL_DOORS\":[1,2,3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"JOURNAL_CREATE\":[2,3,4],\"TOKEN_CREATE\":[3,4],\"ITEM_CREATE\":[3,4],\"ACTOR_CREATE\":[3,4],\"TEMPLATE_CREATE\":[1,2,3,4],\"SETTINGS_MODIFY\":[3,4],\"SHOW_CURSOR\":[2,3,4],\"SHOW_RULER\":[1,2,3,4],\"FILES_BROWSE\":[2,3,4],\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"FILES_UPLOAD\":[3,4],\"MESSAGE_WHISPER\":[1,2,3,4],\"DRAWING_CREATE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"NOTE_CREATE\":[2,3,4]}"}
+{"key":"inlinewebviewer.worldMigrate","value":"true","_id":"xc3LRDOH5XIzz6m4"}

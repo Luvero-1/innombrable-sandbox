@@ -1,0 +1,10 @@
+{"_id":"3agnXWgRbB3kxxJa","name":"Plantillas (No tocar)","type":"Actor","sort":200000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"2 - Rasgos de locura","type":"Item","sort":null,"flags":{},"parent":"yHMC8CFMcJbLA12o","sorting":"a","color":"","_id":"8A99cf8DrGgI5ez1"}
+{"name":"3 - Armas y herramientas","type":"Item","sort":null,"flags":{},"parent":"yHMC8CFMcJbLA12o","sorting":"a","color":"","_id":"MelpWeDVRd4BBAwK"}
+{"name":"2 - Rasgos de cordura","type":"Item","sort":null,"flags":{},"parent":"yHMC8CFMcJbLA12o","sorting":"a","color":"","_id":"Qhwv9VDSAQWwRYG4"}
+{"_id":"f1lzCbB5OD5POBoy","name":"Ficha Pj (No tocar)","type":"Item","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"2 - Paneles","type":"Item","sort":null,"flags":{},"parent":"f1lzCbB5OD5POBoy","sorting":"a","color":"","_id":"g65VMIXIrw5hh0gg"}
+{"_id":"gRDQXCYAeZD3zXFy","name":"1 - Pestaña","type":"Item","sort":null,"flags":{},"parent":"f1lzCbB5OD5POBoy","sorting":"a","color":""}
+{"name":"1 - Datos básicos","type":"Item","sort":null,"flags":{},"parent":"yHMC8CFMcJbLA12o","sorting":"a","color":"","_id":"pkTlkD4URbKIYf93"}
+{"name":"3 - Marcas","type":"Item","sort":null,"flags":{},"parent":"yHMC8CFMcJbLA12o","sorting":"a","color":"","_id":"qKeL94bxA4RU5n6q"}
+{"name":"3 - Propiedades","type":"Item","sort":null,"flags":{},"parent":"f1lzCbB5OD5POBoy","sorting":"a","color":"","_id":"yHMC8CFMcJbLA12o"}

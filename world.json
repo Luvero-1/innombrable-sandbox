@@ -1,0 +1,34 @@
+{
+  "name": "innombrable-sandbox",
+  "title": "Innombrable 1ºed para Sandbox",
+  "description": "<p style=\"text-align: center;\"><em>Si has visto el Signo, ya no podr&aacute;s ignorarlo jam&aacute;s. Esto no va de cazar monstruos. Ni por asomo. Esto va de algo completamente diferente.</em></p>",
+  "author": "Luvero",
+  "authors": [
+    {
+      "name": "Luvero",
+      "discord": "Luvero#5745"
+    }
+  ],
+  "url": "https://github.com/Luvero-1/innombrable-sandbox",
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "0.8.9",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "sandbox",
+  "dependencies": [],
+  "socket": false,
+  "manifest": "https://raw.githubusercontent.com/Luvero-1/innombrable-sandbox/main/world.json",
+  "download": "https://codeload.github.com/Luvero-1/innombrable-sandbox/zip/main",
+  "protected": false,
+  "background": "worlds/innombrable-sandbox/Signo%20amarillo%20La%20mandicion.jpg",
+  "coreVersion": "0.8.9",
+  "nextSession": null,
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "0.10.1"
+}
