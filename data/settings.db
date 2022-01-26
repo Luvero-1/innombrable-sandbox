@@ -7,7 +7,7 @@
 {"key":"sandbox.showADV","value":"false","_id":"XQTDu90vFVMEzVzi"}
 {"_id":"XpIDvhJAbHldQqAS","key":"core.rtcWorldSettings","value":"{\"mode\":0,\"server\":{\"type\":\"FVTT\",\"url\":\"\",\"room\":\"g3qvmiiu2x48pp4xa4ybz5nrrna3dwym\",\"username\":\"\",\"password\":\"\"},\"turn\":{\"type\":\"server\",\"url\":\"\",\"username\":\"\",\"password\":\"\"}}"}
 {"_id":"YA5tBdieYTlm7lzc","key":"sandbox.showDC","value":"true"}
-{"_id":"a9sg5kiwpcsRdfNO","key":"core.moduleConfiguration","value":"{\"jitsirtc\":true,\"pdfoundry\":true,\"permission_viewer\":true,\"sound-link\":true}"}
+{"_id":"a9sg5kiwpcsRdfNO","key":"core.moduleConfiguration","value":"{\"jitsirtc\":true,\"pdfoundry\":true,\"permission_viewer\":true}"}
 {"_id":"cIUdnPwczOEySXi5","key":"cursor-hider.minimumPermission","value":"\"1\""}
 {"key":"permission_viewer.migrated","value":"1","_id":"ekxTu65b2C0jEbRT"}
 {"_id":"gEiGMVcJbW4l7B8U","key":"sandbox.diff","value":"\"15\""}
